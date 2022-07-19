@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.tituloServ {
+    margin-left: 380px;
+}
+.tarjetas {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
