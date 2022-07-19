@@ -38,6 +38,11 @@
        margin-left: 5em;
 
     }
+    video {
+        width:75vh;
+        height: 75vh;
+        margin-left:-30%;
+    }
 
 }
 
