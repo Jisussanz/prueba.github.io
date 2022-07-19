@@ -38,7 +38,9 @@
        margin-left: 5em;
 
     }
-    
+    #video {
+        margin-left:-20px;
+    }
 
 }
 
